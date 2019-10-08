@@ -1,0 +1,25 @@
+strong {
+    text-decoration: underline;
+}
+
+span {
+    font-style: italic;
+}
+li.a {
+    font-style: italic;
+}
+
+#x {
+     text-decoration: underline;
+     color: green;
+}
+body {
+    background-color: #6699ff;
+}
+.darkRed {
+    color: #cc0000;
+}
+img {
+      border: 2px solid #cc0000;
+      border-radius: 5px;
+}
